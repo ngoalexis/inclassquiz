@@ -1,0 +1,27 @@
+/* =============
+    creative
+============= */
+#creative{
+
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ". text .";
+
+   ul{
+       grid-area: text;
+       
+       
+       h1{
+           text-align: center;
+           margin-top: 40px;
+           margin-bottom: 12px;
+       }
+
+       li{
+        
+        margin-bottom: 96px;
+    
+
+       }
+   }
+}

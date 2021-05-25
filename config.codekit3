@@ -17,18 +17,6 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
-    "\/deploy\/css\/styles.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/deploy\/img\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 588170,
@@ -309,43 +297,43 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/creative.scss" : {
+    "\/dev\/scss\/sections\/_creative.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/creative.css",
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_creative.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/hero.scss" : {
+    "\/dev\/scss\/sections\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/hero.css",
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/journal.scss" : {
+    "\/dev\/scss\/sections\/_journal.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/journal.css",
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_journal.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -360,7 +348,7 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0

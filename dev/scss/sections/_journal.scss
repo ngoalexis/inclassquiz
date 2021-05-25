@@ -1,0 +1,53 @@
+/* =============
+    journal
+============= */
+#journal{
+   
+    ul{
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". h1 ."
+                             ". one ." 
+                             ". two ."
+                             ". three .";
+        text-align: center;
+        
+
+        h1{
+            grid-area: h1;
+            
+        }
+
+        #one{
+            grid-area: one;
+        }
+        #two{
+            grid-area: two;
+        }
+        #three{
+            grid-area: three;
+        }
+
+        li{
+            background-color: $lightgray;
+            margin-bottom: 22px;
+            max-width: 360px;
+
+           
+            h2{
+                margin-top: 17px;
+            }
+
+            p{
+                text-align: left;
+                margin: 16px;
+            }
+            h4{
+                text-align: left;
+                margin: 16px;
+                
+            }
+        }
+    }
+
+}
